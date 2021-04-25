@@ -1,6 +1,5 @@
 # OnesOwnCloud
-Contains description and examples
-
+Contains description and examples. Note: This is not a new concept, just a repurposed and simplified version of technology that already exists. Would love to see the expansion of the feature set within Windows 10 to include this ability to extend it quickly and easily to Azure. It's doable through the command line without much effort, but you need seperate subscriptions. Doing it through the Windows Store - or similar, would make it much easier and give the ability to the average consumer. Giving customers their private clouds, while maintaining the public cloud. Eventually, just like Bitcoin, decentralized infrastructure would be an option as well. That is, when it's ready for the spotlight. 
 
 # Containers
 A simple docker container, or set of docker containers, used to provide services to the end user's private network - including their cell phone and mobile devices. Optionally, they can add as many family members as they would like to their private cloud seamlessly.
