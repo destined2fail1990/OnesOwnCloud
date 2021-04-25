@@ -17,6 +17,7 @@ If, for instance, I was able to quickly install it and have UPnP (ew) set up the
 # List of Open Source (free) projects that are ready-to-go out of the box for this
 https://github.com/awesome-selfhosted/awesome-selfhosted
 
+-- If you want to try these out now, Docker Desktop can run most of them with minimal effort for a PC enthusiast.
 
 
 # Orchestration W11 Containers peer-to-peer / server-client
