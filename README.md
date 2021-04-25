@@ -24,6 +24,9 @@ More on this later... It pertains to the SMB+Enterprise side.
 
 # OnesOwnCloud App Locations
 Desktop/Laptops - Linux/Windows/Mac
+
 Servers - Linux/Windows
+
 Phones - iPhone/Android
+
 + Routers - Cisco/Netgear/ASUS/D-Link/etc.
